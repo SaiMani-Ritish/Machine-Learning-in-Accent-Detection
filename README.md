@@ -73,10 +73,3 @@ To reproduce these results using the provided notebook:
 3.  **Visualize:** Use the provided visualization functions to generate Confusion Matrices and Loss Curves for detailed error analysis.
 
 ---
-
-## Team
-**Team 3** - DS-620 ML & DL Fall 2025
-* Jeff Anderson
-* Jeff Mobley
-* Megha Narendra Simha
-* Sai Mani Ritish
